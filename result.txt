@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1686244373380,9994,HTTP Request,200,OK,User 1-3,text,true,,281683,232,5,5,https://www.fairbd.com/,472,0,234
+1686244373380,472,HTTP Request-0,301,Moved Permanently,User 1-3,text,true,,1007,116,5,5,http://www.fairbd.com/,472,0,234
+1686244373853,9521,HTTP Request-1,200,OK,User 1-3,text,true,,280676,116,5,5,https://www.fairbd.com/,1038,0,523
+1686244372181,11292,HTTP Request,200,OK,User 1-1,text,true,,281683,232,4,4,https://www.fairbd.com/,453,0,229
+1686244372181,453,HTTP Request-0,301,Moved Permanently,User 1-1,text,true,,1007,116,4,4,http://www.fairbd.com/,453,0,229
+1686244372634,10839,HTTP Request-1,200,OK,User 1-1,text,true,,280676,116,4,4,https://www.fairbd.com/,1196,0,502
+1686244373981,11054,HTTP Request,200,OK,User 1-4,text,true,,281683,232,3,3,https://www.fairbd.com/,484,0,239
+1686244373981,484,HTTP Request-0,301,Moved Permanently,User 1-4,text,true,,1007,116,3,3,http://www.fairbd.com/,484,0,239
+1686244374466,10569,HTTP Request-1,200,OK,User 1-4,text,true,,280676,116,3,3,https://www.fairbd.com/,987,0,486
+1686244372781,12765,HTTP Request,200,OK,User 1-2,text,true,,281683,232,2,2,https://www.fairbd.com/,493,0,256
+1686244372781,493,HTTP Request-0,301,Moved Permanently,User 1-2,text,true,,1007,116,2,2,http://www.fairbd.com/,493,0,256
+1686244373275,12271,HTTP Request-1,200,OK,User 1-2,text,true,,280676,116,2,2,https://www.fairbd.com/,1677,0,478
+1686244374580,14256,HTTP Request,200,OK,User 1-5,text,true,,281683,232,1,1,https://www.fairbd.com/,493,0,242
+1686244374580,493,HTTP Request-0,301,Moved Permanently,User 1-5,text,true,,1007,116,1,1,http://www.fairbd.com/,493,0,242
+1686244375074,13762,HTTP Request-1,200,OK,User 1-5,text,true,,280676,116,1,1,https://www.fairbd.com/,1231,0,518
